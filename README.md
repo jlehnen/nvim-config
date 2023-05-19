@@ -2,6 +2,7 @@
 Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 
 ## Initial setup
+Follow the Quickstart docu here: https://github.com/wbthomason/packer.nvim
 Go to packer.nvim and source file with `:so`, then do `:PackerSync`
 
 [The full video of me setting up this repo](https://www.youtube.com/watch?v=w7i4amO_zaE)
